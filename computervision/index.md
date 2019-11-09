@@ -1,12 +1,20 @@
 # Computer Vision Team Documentation
 
+## Outline
+
+1. [Current Projects](#current-projects)
+2. [Newcomers Trainning](#newcomers-training)
+
 ## Current Projects
 
-List current projects github repo links here
+1. [Main Detection Framework](https://gitlab.com/robomaster-club/armor-detection) (Required access)
+2. [Radar Station Detection Framework](https://gitlab.com/robomaster-club/robot-detection) (Required access)
 
 ## Newcomers Training
 
-Create separated markdown files as the training course modules
+### [Markdown](./)
+
+<iframe src="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos" height="200" width="300"></iframe>
 
 ## Self-learning Materials
 

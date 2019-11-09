@@ -1,6 +1,6 @@
 # Welcome to Purdue Robomaster Team Documentation Page
 
-## What is this page?
+## What is this page
 
 This is the main documentation site for the [Purdue Robomaster Club](https://purduerm.com). It aims at providing newcomers to the club with basic knowledge to engage in the Robomaster competition and club activity.
 
