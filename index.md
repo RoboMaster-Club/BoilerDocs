@@ -1,4 +1,4 @@
-# Welcome to Purdue Robomaster Team Documentation Page
+# Welcome to BoilerDocs
 
 ## What is this page
 
