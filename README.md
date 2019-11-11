@@ -13,3 +13,9 @@ Each team will have an `index.md` file as the main entry point for its documenta
 To create hyperlink in markdown, one should use relative refernce rather than absolute reference in each team folder. For instance, if I want to refer to the file name `hello.world` under the electrical team folder, I should use `./hello.world` rather than `/electrical/hello.world`.
 
 If one want to refer a header created in the same file, one can use the pound sign `#` attached with the header name to refer to it.
+
+## TODO
+
+- [ ] Each team complete basic docs
+- [ ] Automatically projects detection with GitHub API and Javascript
+- [ ] Add project list to the home page
