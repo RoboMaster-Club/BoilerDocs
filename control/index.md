@@ -7,33 +7,41 @@
   - [Current Projects](#current-projects)
   - [Newcomers Training](#newcomers-training)
     - [DJI Referee System, Motors, and Controller Intro](#dji-referee-system-motors-and-controller-intro)
-    - [Maincontroller Board Framework](#maincontroller-board-framework)
     - [Introduction to C and Basic Data Structure](#introduction-to-c-and-basic-data-structure)
     - [Motion Control Model of Robot](#motion-control-model-of-robot)
+    - [Maincontroller Board Framework](#maincontroller-board-framework)
     - [Coordinate Transformation](#coordinate-transformation)
-    - [PID Control](#pid-control)
-    - [Basic Control Theory](#basic-control-theory)
+    - [Basic Control Theory and PID Control](#basic-control-theory-and-pid-control)
+    - [Common Protocols and Peripherals Intro](#common-protocols-and-peripherals-intro)
   - [Self-learning Materials](#self-learning-materials)
 
 ## Current Projects
 
-1. [Maincontroller Board Framework](https://gitlab.com/robomaster-club/main_control_board) (Required access)
+- [Maincontroller Board Framework](https://gitlab.com/robomaster-club/main_control_board) (Required access)
 
 ## Newcomers Training
 
-### DJI Referee System, Motors, and Controller Intro
+- Understand C
+- Read the maincontroller board code on GitLab
 
-### Maincontroller Board Framework
+### DJI Referee System, Motors, and Controller Intro
 
 ### Introduction to C and Basic Data Structure
 
 ### Motion Control Model of Robot
 
+1. Naive chassis control model
+2. Precision chassis control model
+   1. Specific degree
+   2. Specific distance
+
+### Maincontroller Board Framework
+
 ### Coordinate Transformation
 
-### PID Control
+### Basic Control Theory and PID Control
 
-### Basic Control Theory
+### Common Protocols and Peripherals Intro
 
 ## Self-learning Materials
 
