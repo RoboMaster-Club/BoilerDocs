@@ -19,3 +19,12 @@ If one want to refer a header created in the same file, one can use the pound si
 - [ ] Each team complete basic docs
 - [ ] Automatically projects detection with GitHub API and Javascript
 - [ ] Add project list to the home page
+- [ ] Search functionality add
+  - [Lunr.js](https://github.com/olivernn/lunr.js)
+- [ ] Add other documentation like fundraising, SOGA grant, recruitment, etc.
+- [ ] Automatic integration with Club project
+  - [ ] Auto project update
+  - [ ] Auto readme pulling for projects
+  - [ ] Auto blog post scraping
+- [ ] Living coding tools
+  - [ ] VerilogJs
