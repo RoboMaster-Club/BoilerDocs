@@ -7,9 +7,8 @@ This is the main documentation site for the [Purdue Robomaster Club](https://pur
 ## Navigation Panel
 
 - [Competition Related](/competition/index.md)
-- [Electrical Team](/electrical/index.md)
+- [Embedded System Team](/embedded/index.md)
 - [Computer Vision Team](/computervision/index.md)
-- [Control Team](/control/index.md)
 - [Mechanical Team](/mechanical/index.md)
 - [Business & media Team](/business/index.md)
 - [Management](/management/index.md)
