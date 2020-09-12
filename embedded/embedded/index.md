@@ -58,6 +58,7 @@ Beside C and STM32 in the following sections, there are some other useful tools 
 3. [GitHub](https://github.com/)
    1. GitHub is a remote git repo hosting service website. We will be using it to host our code and collabrate with each other.
    2. You can register an account there and send the account to your team lead so that we can add you to our organization
+   3. [Branching tips](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Programming Langague Prep (C learning module)
 
